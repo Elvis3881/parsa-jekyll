@@ -13,13 +13,13 @@ preloader: true # To disable preloader change value to false
 
 menu:
   - name: Home
-    url: https://lhcastanedac.github.io/parsa-jekyll/
+    url: https://Elvis3881.github.io/parsa-jekyll/
   - name: About
-    url: https://lhcastanedac.github.io/parsa-jekyll/about/
+    url: https://Elvis3881.github.io/parsa-jekyll/about/
   - name: Contact
-    url: https://lhcastanedac.github.io/parsa-jekyll/contact/
+    url: https://Elvis3881.github.io/parsa-jekyll/contact/
   - name: Blog
-    url: https://lhcastanedac.github.io/parsa-jekyll/blog/
+    url: https://Elvis3881.github.io/parsa-jekyll/blog/
 
 # *** NOTE ***
 # You can add submenus. For example:
